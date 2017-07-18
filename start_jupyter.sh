@@ -1,2 +1,0 @@
-. activate tflab
-jupyter notebook "$@"
